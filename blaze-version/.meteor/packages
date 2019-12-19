@@ -34,7 +34,7 @@ kadira:blaze-layout
 useraccounts:bootstrap
 useraccounts:core
 
-# less
+less
 
 staringatlights:fast-render 
 aldeed:collection2
